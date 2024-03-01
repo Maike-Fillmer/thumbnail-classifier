@@ -6,3 +6,7 @@ A classifier which will determine the predicted views of a video based on a newl
 - Store this data
 - Train a model on the thumbnail & view count data
 - Ability to submit new images, update the model training on new videos and view counts
+
+## Youtube Api
+
+Youtube API Developer Link: https://developers.google.com/youtube/v3/docs/channels/list
